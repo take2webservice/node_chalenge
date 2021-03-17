@@ -18,7 +18,7 @@ function replaceAll(str, pattern, newStr) {
 // 問題2: `str`に含まれる`patterns`に含まれる文字列ををすべて`newStr`に置き換えた結果を返してください。
 // 例) 赤パジャマ黃パジャマ青パジャマ の パジャマ を 寝間着 に置き換え、赤寝間着黃寝間着青寝間着を返す。
 // 第1引数`str`: string
-// 第2引数`patterns`: List<string>
+// 第2引数`patterns`: Array<string>
 // 第3引数`newStr`: string
 
 function replaceAllByList(str, patterns, newStr) {
