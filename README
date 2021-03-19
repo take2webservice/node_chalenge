@@ -1,0 +1,5 @@
+# README
+
+1. `npm install`
+2. try editting programs in `chalenge`
+3. try test by `npx jest <filename>`
